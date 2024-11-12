@@ -1,0 +1,13 @@
+asgiref==3.8.1
+Django==3.2.16
+django-cors-headers==3.13.0
+djangorestframework==3.12.4
+flake8==6.0.0
+flake8-isort==6.0.0
+isort==5.13.2
+mccabe==0.7.0
+psycopg2-binary==2.9.3
+pycodestyle==2.10.0
+pyflakes==3.0.1
+pytz==2024.2
+sqlparse==0.5.1
