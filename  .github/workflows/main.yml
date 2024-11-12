@@ -1,5 +1,3 @@
-# Файл main.yml
-# Имя workflow
 name: Main Taski Workflow
 # Перечень событий-триггеров, при которых должен запускаться workflow
 on:
