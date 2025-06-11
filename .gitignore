@@ -130,3 +130,5 @@ dmypy.json
 
 frontend/node_modules
 .env
+
+.idea
